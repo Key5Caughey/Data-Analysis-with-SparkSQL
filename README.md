@@ -1,2 +1,2 @@
 # HomeSales-challenge-22
-## Staring a the last challenge
+## Staring the last challenge
