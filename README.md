@@ -6,4 +6,8 @@ Read in home_sales_revised.csv, created temporary table. Answered required quest
 
 ### Libraries/Modules 
 
+findspark, pyspark.sql, SparkSession, time, SparkFiles
 
+### Resources
+
+Class notes, Office hours, Tutor, Chatgpt
