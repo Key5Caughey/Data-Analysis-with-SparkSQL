@@ -10,14 +10,16 @@ off your answer to two decimal places.
 - What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
 
+## Tools and Techniques Used
+**PySpark, AWS S3, Findspark, SparkSQL, Parquet, Time Module, Jupyter Notebook**
+- Data Loading, Data Exploration and Schema Inspection
+- SQL Queries
+- Caching and Performance Optimization, Measuring Query Runtime
+- Writing and Reading Data in Parquet Format, Partioning
 
-### Using SparkSQL to determine key metrics about home sales data. Use Spark to create temporary views, partition data, cache and uncache a temporary table.
-
+## Organized data for evaluation , answer client queries
 Read in home_sales_revised.csv, created temporary table. Answered required questions using SQL, cached temporary table, checked to see if it was cached. Reran query using cached table to compare with uncached runtime. Uncached table, check to see if it was uncached using PySpark.
 
-### Libraries/Modules 
-
-findspark, pyspark.sql, SparkSession, time, SparkFiles
 
 ### Resources
 
